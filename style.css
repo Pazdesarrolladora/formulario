@@ -1,0 +1,6 @@
+.contenedor {
+    background-color: gainsboro;
+    width: 250px;
+    border-radius: 3px;
+    border-end-end-radius: 3px;
+}
