@@ -1,3 +1,25 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/7f/56/42/7f5642da353e8fc1b0fddb06e7664b39.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+
+  }
+  #myContent {
+    max-width: 800px; /* Ajusta el valor según tus necesidades */
+    margin: 0 auto; /* Centra el div horizontalmente */
+    background-image: url("https://i.pinimg.com/originals/bd/bc/5c/bdbc5c63d536b4e5a3112d982e9b4197.jpg");
+    border-radius: 30px;
+  }
+  
+   .form-control {
+    border-color: transparent;
+  }
+ .navbar{
+    border-radius: 30px;
+ }
+
+ 
 .contenedor {
     background-color: gainsboro;
     width: 250px;
